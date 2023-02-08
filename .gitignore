@@ -1,3 +1,4 @@
 .clang_complete
 .gcc-flags.json
 priv_datareal.h
+.DS_Store
