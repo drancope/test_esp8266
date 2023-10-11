@@ -2,3 +2,5 @@
 .gcc-flags.json
 priv_datareal.h
 .DS_Store
+.pio
+.vscode
